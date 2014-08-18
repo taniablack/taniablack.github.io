@@ -136,7 +136,7 @@ a:focus {
     padding: 100px 0;
     text-align: center;
     color: #fff;
-    background: url(../img/outside.jpg) no-repeat bottom center scroll;
+    background: url(img/outside.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -255,7 +255,7 @@ a:focus {
     height:auto;
     padding: 0;
     color: #fff;
-    background: url(../img/woods.jpg) no-repeat bottom center scroll;
+    background:woods.jpg no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
